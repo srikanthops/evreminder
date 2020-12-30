@@ -1,0 +1,4 @@
+server:
+  enabled: false
+  verbose: false
+  port: "8080"  # interpreted as string
